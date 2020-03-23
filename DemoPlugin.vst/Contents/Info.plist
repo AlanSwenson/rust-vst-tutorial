@@ -6,7 +6,7 @@
     <string>English</string>
 
     <key>CFBundleExecutable</key>
-    <string>Plugin</string>
+    <string>DemoPlugin</string>
 
     <key>CFBundleGetInfoString</key>
     <string>vst</string>
@@ -15,13 +15,13 @@
     <string></string>
 
     <key>CFBundleIdentifier</key>
-    <string>com.rust-vst.Plugin</string>
+    <string>com.rust-vst.DemoPlugin</string>
 
     <key>CFBundleInfoDictionaryVersion</key>
     <string>6.0</string>
 
     <key>CFBundleName</key>
-    <string>Plugin</string>
+    <string>DemoPlugin</string>
 
     <key>CFBundlePackageType</key>
     <string>BNDL</string>
@@ -30,7 +30,7 @@
     <string>1.0</string>
 
     <key>CFBundleSignature</key>
-    <string>6066</string>
+    <string>6792</string>
 
     <key>CSResourcesFileMapped</key>
     <string></string>
